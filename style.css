@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(17, 17, 67);
+}
+#screen {
+    border: 2px solid lightcyan;
+    cursor: none;
+}
+#cursor {
+    position: fixed;
+    width: 25px;
+    height: 25px;
+    background-color: aqua;
+    border-radius: 50%;
+    transform: translate( -50%, -50%);
+
+    box-shadow: 0 0 10px #55fefe,
+                0 0 30px #55fefe,
+                0 0 50px #55fefe,
+                0 0 70px #55fefe;
+
+    animation: colors 5s infinite;
+    display: none;
+}
+
+/* animations */
+
+@keyframes colors {
+    0%{ filter: hue-rotate(0deg); }
+    50%{ filter: hue-rotate(360deg); }
+    100%{ filter: hue-rotate(0deg); }
+}
