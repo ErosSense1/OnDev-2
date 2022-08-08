@@ -1,5 +1,5 @@
 # My big project
-this is a demo of a game that im developing and I would appreciete your help to make this game as soon as possible, please consider leaving your idea for the history Ill be glad to hear your recomendations.
+this is a demo of a game that im developing and I would appreciete your help to make this game as soon as possible, please consider leaving your idea for the history I`ll be glad to hear your recomendations.
 
 | Controls | Keys | Actions |
 | -- | -- | -- |
