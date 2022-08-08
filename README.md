@@ -5,3 +5,4 @@ this is a demo of a game that im developing and I would appreciete your help to 
 | -- | -- | -- |
 | Left | 'A' / 'ArrowLeft' | Moves the character to the left |
 | Right | 'D' / 'ArrowRight' | Moves the character to the right |
+| Action | Space | Interact with objects |
